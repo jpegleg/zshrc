@@ -4,6 +4,10 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 cp zsh-theme ~/.oh-my-zsh/themes/jpegleg.zsh-theme
 
+git clone https://github.com/jpegleg/metarc
+
+cat metarc/metaRC_alt-freebsd >> ~/.zshrc
+
 perl -pi -e 's/robbyrussell/jpegleg/g' ~/.zshrc
 
 source ~/.zshrc
