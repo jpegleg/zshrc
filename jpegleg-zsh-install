@@ -1,6 +1,6 @@
 aptitude -y install zsh || apt-get -y install zsh || yum -y install zsh 
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" &&
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" 
 
 cp zsh-theme ~/.oh-my-zsh/themes/jpegleg.zsh-theme
 
