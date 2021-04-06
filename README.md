@@ -13,4 +13,4 @@ Then the new theme will be installed and ready for your next session
 zsh
 
 
-![Alt text](/jpegleg_zsh_demo.PNG?raw=true "jpegleg zsh theme demo")
+![Alt text](/jpegleg_zsh_demo2.PNG?raw=true "jpegleg zsh theme demo")
