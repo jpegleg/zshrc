@@ -5,7 +5,7 @@ chmod +x jpegleg-zsh-install
 
 ./jpegleg-zsh-install
 
-### First you will have default theme, then exit to keep going:
+### First you will have default theme after zsh is installed from the above command, then exit to keep going:
 
 exit
 
