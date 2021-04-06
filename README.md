@@ -18,4 +18,4 @@ zsh
 
 
 The result is similar to dark blood theme, but with a datestamp and some dashes in the prompt.
-And this also adds in alias' and functions from https://github.com/jpegleg/metarc/blob/master/metaRC_alt-freebsd
+And this also adds in alias' and functions from https://github.com/jpegleg/metarc/blob/master/metaRC_alt-freebsd to ~/.zshrc
