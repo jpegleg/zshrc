@@ -10,4 +10,4 @@ cat metarc/metaRC_alt-freebsd >> ~/.zshrc
 
 perl -pi -e 's/robbyrussell/jpegleg/g' ~/.zshrc
 
-source ~/.zshrc
+echo "Now start a new zsh session to begin using it!"
